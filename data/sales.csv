@@ -1,0 +1,121 @@
+id,product,category,quantity,price,status
+1,Smartphone,Electronics,2,299.99,completed
+2,Mouse,Accessories,6,19.90,completed
+3,Desk Lamp,Home,4,22.28,completed
+4,Smartphone,Electronics,1,299.99,pending
+5,USB-C Cable,Accessories,3,8.50,completed
+6,Bluetooth Speaker,Electronics,2,47.50,completed
+7,Bluetooth Speaker,Electronics,2,47.50,completed
+8,Smartphone,Electronics,2,299.99,completed
+9,Mouse,Accessories,4,19.90,completed
+10,Desk Lamp,Home,6,24.75,completed
+11,Smartphone,Electronics,1,299.99,pending
+12,Wireless Earbuds,Electronics,5,62.99,completed
+13,Mouse,Accessories,5,17.91,completed
+14,Mouse,Accessories,1,19.90,completed
+15,Smartphone,Electronics,2,299.99,completed
+16,Monitor,Electronics,1,134.55,completed
+17,Water Bottle,Outdoors,4,14.25,completed
+18,Bluetooth Speaker,Electronics,5,47.50,completed
+19,Mouse,Accessories,4,17.91,completed
+20,Water Bottle,Outdoors,3,14.25,completed
+21,Keyboard,Accessories,5,35.91,cancelled
+22,Smartphone,Electronics,2,299.99,completed
+23,Water Bottle,Outdoors,1,12.82,pending
+24,Coffee Maker,Home,1,53.96,completed
+25,Water Bottle,Outdoors,4,14.25,completed
+26,Mouse,Accessories,1,19.90,completed
+27,Desk Lamp,Home,1,24.75,completed
+28,Laptop,Electronics,2,699.00,completed
+29,Laptop,Electronics,2,699.00,returned
+30,Smartphone,Electronics,1,299.99,completed
+31,Laptop,Electronics,2,699.00,pending
+32,Mouse,Accessories,2,19.90,completed
+33,Bluetooth Speaker,Electronics,3,47.50,completed
+34,USB-C Cable,Accessories,5,8.50,cancelled
+35,Wireless Earbuds,Electronics,5,69.99,completed
+36,Keyboard,Accessories,4,39.90,completed
+37,Coffee Maker,Home,4,59.95,cancelled
+38,Water Bottle,Outdoors,2,14.25,completed
+39,Coffee Maker,Home,3,53.96,completed
+40,Smartphone,Electronics,1,299.99,completed
+41,Monitor,Electronics,2,149.50,completed
+42,Monitor,Electronics,1,134.55,pending
+43,Mouse,Accessories,5,19.90,completed
+44,Monitor,Electronics,1,134.55,completed
+45,Wireless Earbuds,Electronics,2,69.99,completed
+46,Keyboard,Accessories,5,39.90,completed
+47,Notebook,Stationery,5,4.20,completed
+48,Mouse,Accessories,3,17.91,cancelled
+49,USB-C Cable,Accessories,6,8.50,completed
+50,Bluetooth Speaker,Electronics,1,47.50,completed
+51,Smartphone,Electronics,1,299.99,completed
+52,Bluetooth Speaker,Electronics,1,47.50,completed
+53,Coffee Maker,Home,1,59.95,cancelled
+54,Desk Lamp,Home,6,22.28,completed
+55,Mouse,Accessories,3,19.90,completed
+56,Bluetooth Speaker,Electronics,5,47.50,returned
+57,Keyboard,Accessories,3,39.90,cancelled
+58,Smartphone,Electronics,2,269.99,completed
+59,USB-C Cable,Accessories,1,8.50,completed
+60,Mouse,Accessories,2,19.90,completed
+61,Desk Lamp,Home,6,24.75,completed
+62,Desk Lamp,Home,5,24.75,completed
+63,Water Bottle,Outdoors,3,12.82,completed
+64,Coffee Maker,Home,1,59.95,completed
+65,Wireless Earbuds,Electronics,2,62.99,completed
+66,Notebook,Stationery,2,4.20,pending
+67,Keyboard,Accessories,1,39.90,completed
+68,Smartphone,Electronics,1,269.99,completed
+69,Bluetooth Speaker,Electronics,4,47.50,completed
+70,Wireless Earbuds,Electronics,6,69.99,completed
+71,Wireless Earbuds,Electronics,6,69.99,completed
+72,Wireless Earbuds,Electronics,4,69.99,completed
+73,USB-C Cable,Accessories,2,7.65,completed
+74,USB-C Cable,Accessories,4,8.50,completed
+75,Mouse,Accessories,2,19.90,completed
+76,Desk Lamp,Home,3,24.75,completed
+77,Mouse,Accessories,2,19.90,completed
+78,Laptop,Electronics,2,699.00,completed
+79,Mouse,Accessories,6,19.90,returned
+80,Monitor,Electronics,1,149.50,completed
+81,Smartphone,Electronics,1,299.99,cancelled
+82,Mouse,Accessories,5,17.91,completed
+83,Water Bottle,Outdoors,2,14.25,completed
+84,Notebook,Stationery,3,4.20,pending
+85,Coffee Maker,Home,1,59.95,completed
+86,Mouse,Accessories,3,19.90,completed
+87,Keyboard,Accessories,5,39.90,pending
+88,Keyboard,Accessories,3,35.91,completed
+89,Smartphone,Electronics,1,269.99,completed
+90,Water Bottle,Outdoors,6,14.25,pending
+91,Keyboard,Accessories,5,39.90,completed
+92,Notebook,Stationery,2,3.78,completed
+93,Monitor,Electronics,2,149.50,pending
+94,Smartphone,Electronics,1,299.99,completed
+95,Smartphone,Electronics,2,299.99,completed
+96,USB-C Cable,Accessories,5,7.65,completed
+97,Bluetooth Speaker,Electronics,1,47.50,cancelled
+98,USB-C Cable,Accessories,2,8.50,completed
+99,Wireless Earbuds,Electronics,6,69.99,completed
+100,Notebook,Stationery,3,3.78,completed
+101,Laptop,Electronics,1,629.10,completed
+102,Smartphone,Electronics,1,299.99,cancelled
+103,Coffee Maker,Home,2,59.95,completed
+104,Smartphone,Electronics,2,269.99,completed
+105,Keyboard,Accessories,2,35.91,completed
+106,Notebook,Stationery,3,3.78,completed
+107,Mouse,Accessories,2,19.90,completed
+108,Bluetooth Speaker,Electronics,3,47.50,completed
+109,Bluetooth Speaker,Electronics,2,47.50,completed
+110,Coffee Maker,Home,1,59.95,completed
+111,Laptop,Electronics,2,699.00,completed
+112,Mouse,Accessories,2,19.90,completed
+113,Monitor,Electronics,1,149.50,pending
+114,Monitor,Electronics,2,149.50,completed
+115,Mouse,Accessories,4,17.91,completed
+116,Wireless Earbuds,Electronics,4,69.99,cancelled
+117,Desk Lamp,Home,6,24.75,completed
+118,Mouse,Accessories,5,19.90,completed
+119,Bluetooth Speaker,Electronics,1,47.50,completed
+120,Coffee Maker,Home,4,59.95,returned
